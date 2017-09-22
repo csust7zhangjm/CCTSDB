@@ -1,0 +1,10 @@
+# CCTSDB
+CSUST Chinese Traffic Sign Detection Benchmark
+中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成，其中包含图片近20000张，
+交通标志近40000个，在GroundTruth文件中标注说明，如今将全部公开,先上传部分。
+
+大家如果下载做研究实验，请引用我们的文章：
+
+如有疑问：欢迎发送邮件：
+jmzhang@csust.edu.cn
+jinxk@stu.csust.edu.cn
