@@ -5,6 +5,11 @@ CSUST Chinese Traffic Sign Detection Benchmark
 
 其中包含图片近20000张，交通标志近40000个，在GroundTruth文件中标注说明，如今将全部公开,先上传部分。
 
+完整数据集：
+链接：https://pan.baidu.com/s/1Swb48BppUJtuE3QeCcd4Yw 
+提取码：rv4s 
+
+
 到目前为止，已经上传数据10000张，groundtruth也已经上传。
 声明：目前的标注数据只有三大类：指示标志、禁止标志、警告标志。
 
