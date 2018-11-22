@@ -17,9 +17,9 @@ CSUST Chinese Traffic Sign Detection Benchmark
 
 Zhang J, Jin X, Sun J, et al. Spatial and semantic convolutional features for robust visual object tracking. Multimedia Tools and Applications, 2018. https://doi.org/10.1007/s11042-018-6562-8
 
-Zhang J, Huang M, Jin X, et al. A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2[J]. Algorithms, 2017, 10(4):127.
+Zhang J, Huang M, Jin X, et al. A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2. Algorithms, 2017, 10(4):127.
 
-Zhang J, Huang Q, Wu H, et al. Effective traffic signs recognition via kernel PCA network[J]. International Journal of Embedded Systems, 2018, 10(2): 120-125.
+Zhang J, Huang Q, Wu H, et al. Effective traffic signs recognition via kernel PCA network. International Journal of Embedded Systems, 2018, 10(2): 120-125.
 
 如有疑问：欢迎发送邮件：
 jmzhang@csust.edu.cn
