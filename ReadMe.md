@@ -15,11 +15,11 @@ CSUST Chinese Traffic Sign Detection Benchmark
 
 大家如果下载做研究实验，请尽量引用我们的文章，务必引用第一篇：
 
-Zhang J, Jin X, Sun J, et al. Spatial and semantic convolutional features for robust visual object tracking. Multimedia Tools and Applications, 2018. https://doi.org/10.1007/s11042-018-6562-8
-
 Zhang J, Huang M, Jin X, et al. A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2. Algorithms, 2017, 10(4):127.
 
 Zhang J, Huang Q, Wu H, et al. Effective traffic signs recognition via kernel PCA network. International Journal of Embedded Systems, 2018, 10(2): 120-125.
+
+Jianming Zhang, Zhipeng Xie, Juan Sun, Xin Zou, Jin Wang. A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection. IEEE Access, 2020, DOI: 10.1109/ACCESS.2020.2972338.
 
 如有疑问：欢迎发送邮件：
 jmzhang@csust.edu.cn
