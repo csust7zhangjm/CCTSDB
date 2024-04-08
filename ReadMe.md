@@ -29,10 +29,15 @@ Li Xudong, Zhang Jianming, Xie Zhipeng, Wang Jin. A Fast Traffic Sign Detection 
 https://github.com/csust7zhangjm/CCTSDB2021
 
 *Please cite the following papers:*
+<p>
 [1] Jianming Zhang, Yaru Lv, Jiajun Tao, Fengxiang Huang, Jin Zhang. A robust real-time anchor-free traffic sign detector with one-level feature. IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, vol. 8, no.2, pp. 1437-1451. DOI: 10.1109/TETCI.2024.3349464. 
-
+</p>
+<p>
 [2] Jianming Zhang, Xin Zou, Li-Dan Kuang, Jin Wang, R. Simon Sherratt, Xiaofeng Yu. CCTSDB 2021: A more comprehensive traffic sign detection benchmark. Human-centric Computing and Information Sciences, 2022, vol. 12, Article number: 23. DOI: 10.22967/HCIS.2022.12.023.
-
+</p>
+<p>
 [3] Jianming Zhang, Zhuofan Zheng, Xianding Xie, Yan Gui, Gwang-Jun Kim. ReYOLO: A traffic sign detector based on network reparameterization and features adaptive weighting. Journal of Ambient Intelligence and Smart Environments, 2022, vol. 14, no. 4, pp. 317-334. DOI: 10.3233/AIS-220038.
-
+</p>
+<p>
 [4] Jianming Zhang, Zi Ye, Xiaokang Jin, Jin Wang, Jin Zhang. Real-time traffic sign detection based on multiscale attention and spatial information aggregator, Journal of Real-Time Image Processing, 2022, DOI: 10.1007/s11554-022-01252-w.
+</p> 
