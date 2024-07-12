@@ -1,5 +1,5 @@
-# CCTSDB
-CCTSDB2017
+# 1、CCTSDB
+## CCTSDB2017
 CSUST Chinese Traffic Sign Detection Benchmark
 中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成。
 
@@ -25,7 +25,8 @@ Li Xudong, Zhang Jianming, Xie Zhipeng, Wang Jin. A Fast Traffic Sign Detection 
 本数据集可以称为CCTSDB2017。
 如有疑问：欢迎发送邮件：jmzhang@csust.edu.cn; lxd@stu.csust.edu.cn
 
-# 更新
+# 2、更新
+## CCTSDB2021
 2021年我们推出了规模更大、更完善的CCTSDB2021。
 https://github.com/csust7zhangjm/CCTSDB2021
 
