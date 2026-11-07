@@ -14,9 +14,6 @@ CSUST Chinese Traffic Sign Detection Benchmark
 
 大家如果下载做研究实验，请尽量引用我们的文章，务必引用：
 <p>
-[New] Jianming Zhang, Yuan Wang, Zikang Liu, Lei Wang. HQ-YOLO: Robust traffic sign detection via high-dimensional feature mapping and quad-stream Wavelet transform. Neurocomputing, 2026, vol. 699, 134355. DOI: 10.1016/j.neucom.2026.134355.
-</p>
-<p>
 [1] Jianming Zhang, Zhipeng Xie, Juan Sun, Xin Zou, Jin Wang. A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection. IEEE Access, 2020, DOI: 10.1109/ACCESS.2020.2972338.
 </p>
 <p>
@@ -41,6 +38,9 @@ CSUST Chinese Traffic Sign Detection Benchmark
 https://github.com/csust7zhangjm/CCTSDB2021
 
 *Please cite the following papers:*
+<p>
+[New] Jianming Zhang, Yuan Wang, Zikang Liu, Lei Wang. HQ-YOLO: Robust traffic sign detection via high-dimensional feature mapping and quad-stream Wavelet transform. Neurocomputing, 2026, vol. 699, 134355. DOI: 10.1016/j.neucom.2026.134355.
+</p>
 <p>
 [1] Jianming Zhang, Yaru Lv, Jiajun Tao, Fengxiang Huang, Jin Zhang. A robust real-time anchor-free traffic sign detector with one-level feature. IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, vol. 8, no.2, pp. 1437-1451. DOI: 10.1109/TETCI.2024.3349464. 
 </p>
